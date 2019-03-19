@@ -1,4 +1,4 @@
-body window.onload = function() {
+window.onload = function() {
     //get the canvas and conext and store in vars
     var canvas = document.getElementById("sky");
     var ctx = canvas.getContext("2d");
