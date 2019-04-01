@@ -3,7 +3,16 @@ body {
        font-family: arial;
 }
 
-p{ text-align: center;
+header {background-image: url(https://i.pinimg.com/originals/22/6f/4f/226f4fe25cf52d3278bacb5c70cb8421.png);
+  height: 100vh;
+}
+
+div id.carousel {
+  height: 100vh;
+}
+
+p {
+  text-align: center;
   margin: 5vh 10vw;
 }
 
@@ -14,10 +23,16 @@ div {
 h1, h2 {
         text-align: center;
 }
+
+
 h1 {
+  text-align: center;
         font-size: 5em;
 }
+
+
 h2 {
+  text-align: center;
         font-size: 2.5em;
 }
 img {
