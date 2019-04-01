@@ -3,6 +3,10 @@ body {
        font-family: arial;
 }
 
+div id.carousel {
+  height: 100vh;
+}
+
 p {
   text-align: center;
   margin: 5vh 10vw;
