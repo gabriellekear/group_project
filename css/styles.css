@@ -42,6 +42,11 @@ h2 {
   text-align: center;
         font-size: 2.5em;
 }
+
+h3 { text-align: center;
+color: #black
+font-size: 3em;}
+
 img {
         display: flex;
         padding: 20px;
