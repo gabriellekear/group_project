@@ -3,8 +3,10 @@ body {
        font-family: arial;
 }
 
-header {background-image: url(https://i.pinimg.com/originals/22/6f/4f/226f4fe25cf52d3278bacb5c70cb8421.png);
+header {background-image: url(https://media-public.canva.com/MACViPas-Ak/1/screen.jpg);
   height: 100vh;
+  background-size: cover;
+  background-position: center;
 }
 
 div id.carousel {
