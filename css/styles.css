@@ -2,6 +2,23 @@ body {
        color: rgb(65,75,86);
        font-family: arial;
 }
+<<<<<<< HEAD
+=======
+
+header {background-image: url(https://i.pinimg.com/originals/22/6f/4f/226f4fe25cf52d3278bacb5c70cb8421.png);
+  height: 100vh;
+}
+
+div id.carousel {
+  height: 100vh;
+}
+
+p {
+  text-align: center;
+  margin: 5vh 10vw;
+}
+
+>>>>>>> 61e7ce47eccde716923b9224cb2a1ce423154c9f
 div {
        min-height: 100vh;
        width: 100vw;
@@ -9,10 +26,16 @@ div {
 h1, h2 {
         text-align: center;
 }
+
+
 h1 {
+  text-align: center;
         font-size: 5em;
 }
+
+
 h2 {
+  text-align: center;
         font-size: 2.5em;
 }
 img {
